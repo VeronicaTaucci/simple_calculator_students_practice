@@ -165,3 +165,11 @@ function calculate() {
 		}
 ```
 </details>
+
+<details>
+  <summary>CHALLENGE: Create an element that will display the entire operation after '=' is clicked</summary>
+  
+```js
+  ![demo](./result.jpg)
+```
+</details>
